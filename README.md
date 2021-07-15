@@ -1,2 +1,2 @@
 # message_generator
-A simple code that generates a random quote 
+A simple code that generates random quotes 
